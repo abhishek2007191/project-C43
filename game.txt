@@ -1,0 +1,22 @@
+playing char     : squad
+
+non playing char : zombies
+
+goals: if all zombies dead your the winner
+
+chance vs skill : chance:[if zombie killed us and we have revived]
+                  skill :[if we killed the zombie we win]
+
+balance : after checkpoint the game will be medium and tough
+
+feedback : score
+
+rules : (arrow keys,space,shift,tab).
+
+adaptivity : the zombies will spawn more.
+
+story : in one island player will land from flight there are more zombies.the squad want to kill all the zombies.
+
+
+
+
